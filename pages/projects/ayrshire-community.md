@@ -5,8 +5,8 @@ excerpt: Twice weekly Digital Skills Job Club
 lead: The Ayrshire Community Trust
 website: http://www.theayrshirecommunitytrust.co.uk/
 email: 
-twitter: 
-facebook: 
+twitter: https://twitter.com/TAyrshireCT
+facebook: http://www.facebook.com/TACT12
 start: April 2015
 end: March 2016
 award: £14,268 
