@@ -50,7 +50,18 @@ worker (10 hrs per week) and recruiting a team of volunteers to provide the trai
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+## Phase 1 - July 2015
+We have managed to recruit our Digital Job Club Worker who will run the Digital Skills Job Clubs and deliver the Training Courses. Our service provision started on 13th July 2015.
+We have also been promoting these services throughout North Ayrshire and working with partners to refer individuals who could benefit from this support.
+
+## Phase 2 - August 2015
+We now have the assistance of a couple of volunteers to support the Digital Job Club Worker to enhance the provision for all attendees.
+From 13th July 2015 to 26th August 2015 we have had 109 visits to the Digital Skills Job Clubs and have had 5 attendees complete the IT Training Course.
+
+## Phase 3 - August 2015
+The Digital Job Club Worker has now identified guest speakers to come along to the Job Clubs to provide an input and refer on any interested clients. We have had the following along to date:
+- North Ayrshire Citizens Advice Service
+- Energy Advice Service
 
 ### Outputs and outcomes
 
